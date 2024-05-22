@@ -1,0 +1,9 @@
+﻿## Interface: 20400
+## Title:|cff1784d1E|r|cffe5e3e3lvUI|r DungeonDiff
+## Author:  Stas Rusnak
+## Version: 1.77
+## RequiredDeps: ElvUI
+## DefaultState: Enabled
+
+Locales.lua
+ElvUI_DungeonDiff.lua

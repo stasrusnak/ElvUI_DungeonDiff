@@ -79,8 +79,8 @@ end
 
 local function UpdateDungeonDifficulty()
     local _, instanceType, difficultyID = GetInstanceInfo()
-    local texturePath = "" -- Default icon
-    local textLabel = ""
+    local texturePath = "Interface\\AddOns\\ElvUI_DungeonDiff\\icons\\n" -- Default icon
+    local textLabel = "25"
     local button = DD.frame.button
 
     ClearDifficultyFrames()  
@@ -92,7 +92,7 @@ local function UpdateDungeonDifficulty()
             textLabel = "5"
         elseif difficultyID == 2 then
             texturePath = "Interface\\AddOns\\ElvUI_DungeonDiff\\icons\\h"
-            textLabel = "5h"
+            textLabel = "5"
         end
     elseif instanceType == "raid" then
         if difficultyID == 1 then

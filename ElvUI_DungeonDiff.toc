@@ -1,7 +1,7 @@
-﻿## Interface: 20400
-## Title:|cff1784d1E|r|cffe5e3e3lvUI|r DungeonDiff
-## Author:  Stas Rusnak
-## Version: 1.77
+﻿## Interface: 20400 
+## Title: |cff00b30bE|cFFE5E3E3lvUI |cFFE5E3E3DungeonDiff by |cFF7EBFF1N|cFF8CC0D6i|cFF9BC2BBc|cFFA9C3A1e|cFFB7C586D|cFFC6C66Ba|cFFD4C850m|cFFE2C936a|cFFF1CB1Bg|cFFFFCC00e|cFFE5E3E3
+## Author: Stas Rusnak [|cFF7EBFF1N|cFF8CC0D6i|cFF9BC2BBc|cFFA9C3A1e|cFFB7C586D|cFFC6C66Ba|cFFD4C850m|cFFE2C936a|cFFF1CB1Bg|cFFFFCC00e|cFFE5E3E3] 
+## Version: 0.2
 ## RequiredDeps: ElvUI
 ## DefaultState: Enabled
 

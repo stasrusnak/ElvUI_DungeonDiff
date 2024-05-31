@@ -97,7 +97,7 @@ local function UpdateDungeonDifficulty()
     elseif instanceType == "raid" then
         if difficultyID == 1 then
             texturePath = "Interface\\AddOns\\ElvUI_DungeonDiff\\icons\\n"
-            textLabel = "10"
+            textLabel = "25"
         elseif difficultyID == 2 then
             texturePath = "Interface\\AddOns\\ElvUI_DungeonDiff\\icons\\n"
             textLabel = "25"

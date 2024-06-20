@@ -77,6 +77,7 @@ local function ClearDifficultyFrames()
     DD.frame.difficultyFrames = {}
 end
 
+
 local function UpdateDungeonDifficulty()
     local _, instanceType, difficultyID = GetInstanceInfo()
     local texturePath = "" -- Default icon

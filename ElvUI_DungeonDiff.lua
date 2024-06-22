@@ -84,7 +84,7 @@ local function UpdateDungeonDifficulty()
     local textLabel = ""
     local button = DD.frame.button
 
-    ClearDifficultyFrames()  
+    ClearDifficultyFrames()   
  
 
     if instanceType == "party" then
